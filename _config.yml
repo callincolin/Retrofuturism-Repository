@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: Retrofuturism
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: Visual speculations on future society
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "This collection focuses on retrofuturist images — works whose theme speculates on future society. One subcategory of this collection is space exploration, such as civilizations on the moon or other planets. Another subcategory focuses on technological improvements, such as various flying transportation."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Colin Bell, Anay Kumar, and Carter Norton
 
 ##########
 # COLLECTION SETTINGS
