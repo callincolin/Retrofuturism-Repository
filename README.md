@@ -13,7 +13,7 @@ Note that CB-Sheets is based on and mostly compatible with [CollectionBuilder-GH
 
 ----------
 
-## CollectionBuilder 
+## Retrofuturism 
 
 <https://collectionbuilder.github.io/>
 
