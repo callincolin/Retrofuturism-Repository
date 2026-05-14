@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: Retrofuturism
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Vintage media that speculations on future society
+tagline: Vintage media speculations of a futuristic society
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This is a collection of retrofuturist images — works whose theme speculates on future society. A few subcategories of this theme include space exploration, urban development, and whimsical speculative technology such as various flying machines."
+description: "This is a collection of retrofuturist images — works whose theme speculates on future society. A few subcategories of this theme include space exploration, urban development, and whimsical speculative technology such as flying machines."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Colin Bell, Anay Kumar, and Carter Norton
 
