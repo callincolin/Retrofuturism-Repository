@@ -2,7 +2,7 @@ color_class,color
 primary,#A83F2A
 secondary,#A83F2A
 success,
-info,
+info,#A83F2A
 warning,
 danger,
 light,
