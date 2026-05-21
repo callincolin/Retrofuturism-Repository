@@ -1,8 +1,8 @@
 color_class,color
-primary,#A83F2A
-secondary,#A83F2A
-success,
-info,#A83F2A
+primary,
+secondary,
+success,#A83F2A
+info,
 warning,
 danger,
 light,
