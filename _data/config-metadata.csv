@@ -4,13 +4,13 @@ creator,Creator,,
 date,Date created,,
 date_created,Date created (detail),,
 description,Description,,
-subject,Subjects,TRUE,
+subject,Subjects,true,
 location,Location,,
 latitude,Latitude,,
 longitude,Longitude,,
-source,Source,,
+source,Source,,true
 identifier,Source identifier,,
 type,Type,,
 format,Format,,
 rights,Rights,,
-rightsstatement,Rights statement,,TRUE
+rightsstatement,Rights statement,,true
